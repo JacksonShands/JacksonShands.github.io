@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[School Vaccinattion Project](/sample_page)
+[School Vaccination Rate and Exemptions](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
