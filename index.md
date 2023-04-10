@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[School Vaccination Rate and Exemptions](/sample_page)
+[School Vaccination Rate and Exemptions (Social Science Project)](/sample_page)
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
-[Kobe's Sentiment Analysis Through The Stages of Grief](/pdf/sample_presentation.pdf)
+[A Sentiment Analysis Through The Stages of Grief (Psychological Project)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
