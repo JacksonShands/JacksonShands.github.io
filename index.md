@@ -8,7 +8,7 @@
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Kobe's Sentiment Analysis Through The Stages of Grief](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
