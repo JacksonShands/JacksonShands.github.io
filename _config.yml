@@ -6,15 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   - Passionate Data Science professional transforming complex data into insights. Expert in Statistical Analysis, Machine Learning, and Data Visualization.
   - Balancing technical expertise with excellent communication skills. Pursuing a Master of Applied Data Science from Syracuse University.
-  <br><br>
   - Strong foundation in Data and Business Analytics, Language Analytics, and Data Pipelines.
-  - Key competencies: Data Mining, Text Analytics, Time Series Analysis, NLP.
-  - Proficient in Python, R, SQL, Hadoop, Apache Spark, and Tableau.
-  - Fluent in data science tools: TensorFlow, Scikit-learn, Jupyter Notebooks.
-
   <br><br>
   <a href="https://www.linkedin.com/in/jackson-shands-b16062127/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
