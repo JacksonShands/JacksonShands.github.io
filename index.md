@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Food Components and Health Effects in Biological Pathways Project: Nutritional Biochemistry Study](http://example.com/)
+[Scripting Methods for Exploring Nutritional Biochemistry Insights](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
