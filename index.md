@@ -18,7 +18,7 @@
 ---
 
 [Identifying Top Investment Opportunities: Predicting the Most Promising Zip Codes for a Real Estate Investment Trust (REIT)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/timeseries_merged_image.jpg?raw=true"/>
 
 
 ---
