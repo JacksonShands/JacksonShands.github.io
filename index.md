@@ -20,6 +20,17 @@
 [Identifying Top Investment Opportunities: Predicting the Most Promising Zip Codes for a Real Estate Investment Trust (REIT)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+
+---
+
+[Recommend the best salary for the next next head football coach](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Comprehensive Financial Analytics: Enhancing Decision-Making through In-Depth Analysis of Invoices, Sales, Purchases, and Payment Timeliness](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 ### Category Name 2
 
