@@ -29,7 +29,8 @@
 ---
 
 [Comprehensive Financial Analytics: Enhancing Decision-Making through In-Depth Analysis of Invoices, Sales, Purchases, and Payment Timeliness](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/acc_merged_image.jpg?raw=true"/>
 
 ---
 ### Category Name 2
