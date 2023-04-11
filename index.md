@@ -8,12 +8,12 @@
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
-[Stages of Grief Sentiment Analysis: A Psychological Study](/pdf/sample_presentation.pdf)
+[Scripting Methods for Exploring Nutritional Biochemistry Insights](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Scripting Methods for Exploring Nutritional Biochemistry Insights](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
+<img src="images/text_mining_merged_image.jpg?raw=true"/>
 
 ---
 
