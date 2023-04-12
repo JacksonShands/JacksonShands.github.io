@@ -9,7 +9,7 @@
 
 ---
 [Scripting Methods for Exploring Nutritional Biochemistry Insights](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bio_chem_merged_image.jpg?raw=true"/>
 
 ---
 [Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
