@@ -24,7 +24,7 @@
 ---
 
 [Optimizing Gridiron Gold: A Big Data Analytics Approach to Determine the Ideal Salary for the Next Head Football Coach](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/salary_merged_image.jpg?raw=true"/>
 
 ---
 
