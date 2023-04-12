@@ -12,6 +12,11 @@
 <img src="images/bio_chem_merged_image.jpg?raw=true"/>
 
 ---
+
+[Sales Dimension: A Comprehensive Data Warehouse, ETL, and Analysis Framework for Enhanced Business Intelligence](/pdf/sample_presentation.pdf)
+<img src="images/bio_chem_merged_image.jpg?raw=true"/>
+
+---
 [Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
 <img src="images/text_mining_merged_image_2.jpg?raw=true"/>
 
