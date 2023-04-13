@@ -19,8 +19,8 @@
 
 ---
 
-[An Analysis of Predicting Forest Fires for Montesinho Park with Data Mining Techniques](/pdf/Predicting_Forest_Fire.pdf)
-<img src="images/forest_fire_merged_image.jpg?raw=true"/>
+[An Analysis of Predicting Forest Fires for Montesinho Park with Data Mining Techniques](/projects/Predicting_Forest_Fires/Predicting_Forest_Fire.pdf)
+<img src="/projects/Predicting_Forest_Fires/images/forest_fire_merged_image.jpg?raw=true"/>
 
 
 ---
