@@ -20,10 +20,12 @@
 #### Tallying of the duplicated school names:
 * Group by school name
 <img src="images/vacc_duplicated_school_names.png?raw=true"/>
+
 * 31 Total duplicate chr (school names) values found: 
  
 #### Correlation with corrr / lava:
  <img src="images/vacc_corr_basic.png?raw=true"/>
+
 * Correlation should be minimal between independent variable's to avoid multicollinearity:
  
 ## Modeling: 
@@ -56,10 +58,12 @@
 ### 3. Support the selection of appropriate statistical tools and techniques
 * Research Question: Can we develop a linear regression model to predict the number of medical exemptions in public and private schools based on school type and enrollment?
 <img src="images/vacc_lin_basic.png?raw=true"/>
+
 * There is at least one negative relationship for Medical exemptions and Enrollment size that is toward the higher enrollment size variable for schools. 
   * There seems to be multiple layers within the data. 
    * If this is graphed in 3-d space will show possible floors.  
 <img src="images/vacc_lin_qq.png?raw=true"/>
+
 * Residuals vs Fitted
   * Linearity is violated.
 
@@ -80,6 +84,6 @@
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
-This model could potentially help policymakers and educators better understand the factors that contribute to medical exemptions and identify trends or discrepancies in the distribution of exemptions across different school types and sizes. 
+**Project Recommendations:** This model could potentially help policymakers and educators better understand the factors that contribute to medical exemptions and identify trends or discrepancies in the distribution of exemptions across different school types and sizes. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
