@@ -5,12 +5,12 @@
 ### Data Science
 
 [Quantitative Reasoning in School Vaccination Rates and Exemptions: A Social Science Study](/projects/Vaccination_Rate_and_Exemptions/Vaccination_Rate_and_Exemptions_in_Schools.md)
-<img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
+<img src="/projects/Vaccination_Rate_and_Exemptions/images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
 
 [Text Mining and Machine Learning for Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
-<img src="images/text_mining_merged_image_2.jpg?raw=true"/>
+<img src="/projects/Vaccination_Rate_and_Exemptions/images/text_mining_merged_image_2.jpg?raw=true"/>
 
 ---
 
