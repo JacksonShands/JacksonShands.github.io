@@ -84,6 +84,8 @@
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
-**Project Recommendations:** This model could potentially help policymakers and educators better understand the factors that contribute to medical exemptions and identify trends or discrepancies in the distribution of exemptions across different school types and sizes. 
+**Project Recommendations:** This model could potentially help policymakers and educators better understand the factors that contribute to medical exemptions and identify trends or discrepancies in the distribution of exemptions across different school types and sizes.
+* Create a model that uses the explanatory variable's public or private school to observe an effect on the response variable of medical exemptions.
+* Create a model that observes the odds of students  claiming a religious exemption to vaccination increase or decrease with public school status. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
