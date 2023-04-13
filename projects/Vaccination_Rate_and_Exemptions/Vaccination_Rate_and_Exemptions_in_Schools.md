@@ -9,10 +9,10 @@
 * relig_exempt = Indicator that is 1 when religious > 0, and 0 otherwise.
 
 #### Viz for the raw data: 
-<img src="/images/vacc_Viz_for_the_raw_data.png?raw=true"/>
+<img src="images/vacc_Viz_for_the_raw_data.png?raw=true"/>
 
 #### Viz for the new variables that were created: 
-<img src="/images/vacc_Viz_for_the_feat_data.png?raw=true"/>
+<img src="images/vacc_Viz_for_the_feat_data.png?raw=true"/>
 
 ## Quick EDA:
 
