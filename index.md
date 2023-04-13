@@ -22,7 +22,7 @@
 
 ---
 
-[Identifying Top Investment Opportunities: Predicting the Most Promising Zip Codes for a Real Estate Investment Trust (REIT)](http://example.com/)
+[Neural Network Time-Series Analysis for Identifying Top REIT Investment Opportunities in Key Zip Codes](http://example.com/)
 <img src="images/timeseries_merged_image.jpg?raw=true"/>
 
 
