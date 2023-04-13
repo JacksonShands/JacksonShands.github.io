@@ -8,15 +8,7 @@
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
-[Scripting Methods for Exploring Nutritional Biochemistry Insights](/pdf/sample_presentation.pdf)
-<img src="images/bio_chem_merged_image.jpg?raw=true"/>
 
----
-
-[Sales Dimension: A Comprehensive Data Warehouse, ETL, and Analysis Framework for Enhanced Business Intelligence](/pdf/sample_presentation.pdf)
-<img src="images/data_warehouse_merged_image.jpg?raw=true"/>
-
----
 [Text Mining and Machine Learning for Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
 <img src="images/text_mining_merged_image_2.jpg?raw=true"/>
 
@@ -25,6 +17,16 @@
 [Neural Network Time-Series Analysis for Identifying Top REIT Investment Opportunities in Key Zip Codes](http://example.com/)
 <img src="images/timeseries_merged_image.jpg?raw=true"/>
 
+---
+
+---
+[Scripting Methods for Exploring Nutritional Biochemistry Insights](/pdf/sample_presentation.pdf)
+<img src="images/bio_chem_merged_image.jpg?raw=true"/>
+
+---
+
+[Sales Dimension: A Comprehensive Data Warehouse, ETL, and Analysis Framework for Enhanced Business Intelligence](/pdf/sample_presentation.pdf)
+<img src="images/data_warehouse_merged_image.jpg?raw=true"/>
 
 ---
 
