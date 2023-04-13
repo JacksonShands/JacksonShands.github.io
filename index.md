@@ -15,7 +15,7 @@
 ---
 
 [Neural Network Time-Series Analysis for Identifying Top REIT Investment Opportunities in Key Zip Codes](http://example.com/)
-<img src="images/timeseries_merged_image.jpg?raw=true"/>
+<img src="/projects/REIT_Time_Series/images/timeseries_merged_image.jpg?raw=true"/>
 
 ---
 
@@ -25,23 +25,23 @@
 
 ---
 [Scripting Methods for Exploring Nutritional Biochemistry Insights](/pdf/sample_presentation.pdf)
-<img src="images/bio_chem_merged_image.jpg?raw=true"/>
+<img src="/projects/Scripting_For_Nutritioinal_Biochemistry/images/bio_chem_merged_image.jpg?raw=true"/>
 
 ---
 
 [Sales Dimension: A Comprehensive Data Warehouse, ETL, and Analysis Framework for Enhanced Business Intelligence](/pdf/sample_presentation.pdf)
-<img src="images/data_warehouse_merged_image.jpg?raw=true"/>
+<img src="/projects/Sales_Dimension_Data_Warehouse/images/data_warehouse_merged_image.jpg?raw=true"/>
 
 ---
 
 [Optimizing Gridiron Gold: A Big Data Analytics Approach to Determine the Ideal Salary for the Next Head Football Coach](http://example.com/)
-<img src="images/salary_merged_image.jpg?raw=true"/>
+<img src="/projects/Predicting_Ideal_Salary/images/salary_merged_image.jpg?raw=true"/>
 
 ---
 
 [Comprehensive Financial Analytics: Enhancing Decision-Making through In-Depth Analysis of Invoices, Sales, Purchases, and Payment Timeliness](http://example.com/)
 
-<img src="images/acc_merged_image.jpg?raw=true"/>
+<img src="/projects/Financial_Analytics_transactions/images/acc_merged_image.jpg?raw=true"/>
 
 ---
 ### Category Name 2
