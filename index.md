@@ -17,7 +17,7 @@
 <img src="images/data_warehouse_merged_image.jpg?raw=true"/>
 
 ---
-[Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
+[Text Mining and Machine Learning for Stages of Grief Sentiment Analysis: A Psychological Study](http://example.com/)
 <img src="images/text_mining_merged_image_2.jpg?raw=true"/>
 
 ---
