@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Quantitative Reasoning in School Vaccination Rates and Exemptions: A Social Science Study](/markdowns/Vaccination_Rate_and_Exemptions_in_Schools.md)
+[Quantitative Reasoning in School Vaccination Rates and Exemptions: A Social Science Study](/projects/Vaccination_Rate_and_Exemptions/Vaccination_Rate_and_Exemptions_in_Schools.md)
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
