@@ -1,4 +1,4 @@
-## Vaccination Rate and Exemptions in Schools
+## Quantitative Reasoning in School Vaccination Rates and Exemptions: A Social Science Study
 
 **Project description:** This data set contains information from schools about vaccination rates and exemptions (0-100%) along with enrollment and school type. The objective of this research is to investigate the relationship between school type (public or private), enrollment, and the number of medical exemptions granted to students. By developing a linear regression model, the aim is to predict the number of medical exemptions in a school given its type and enrollment size. A hypothesis test is also ran to detemerine the odds of students claiming a religious exemption to vaccination increase or decrease with public school status.
 
