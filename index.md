@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Vaccination Rates and Exemptions in Schools: A Social Science Study](/Vaccination_Rate_and_Exemptions_in_schools.md)
+[Vaccination Rates and Exemptions in Schools: A Social Science Study](/Vaccination_Rate_and_Exemptions_in_Schools.md)
 <img src="images/School_Vaccination_Rate_and_Exemptions_merged_image.jpg?raw=true"/>
 
 ---
