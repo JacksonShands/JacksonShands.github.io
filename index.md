@@ -20,7 +20,7 @@
 ---
 
 [Predicting Forest Fires](/pdf/Predicting_Forest_Fire.pdf)
-<img src="images/bio_chem_merged_image.jpg?raw=true"/>
+<img src="images/forest_fire_merged_image.jpg?raw=true"/>
 
 
 ---
