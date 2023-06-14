@@ -44,17 +44,40 @@
 <img src="/projects/Financial_Analytics_transactions/images/acc_merged_image.jpg?raw=true"/>
 
 ---
-### Category Name 2
+### Scripting Methods.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Stacking and Unstacking Data](http://example.com/)
+- [Semi-Structured Data](http://example.com/)
+- [Mongo Database](http://example.com/)
 
 ---
 
+---
+### Statistics
 
+- [Common Terms](http://example.com/)
+- [Sampling](http://example.com/)
+- [Exploring and T-Test](http://example.com/)
+- [T Test, MCMC, and Bayesian ](http://example.com/)
+
+
+---
+
+---
+### Machine Learning
+- [Text Mining](http://example.com/)
+- [Classifying sentiment analysis](http://example.com/)
+- [Classifiying clothing items](http://example.com/)
+---
+
+
+
+---
+### Visualization
+- [Working with Maps](http://example.com/)
+- [PowerBI - Sales Analysis](http://example.com/)
+- [Cclassifiying clothing items](http://example.com/)
+---
 
 
 ---
