@@ -46,7 +46,7 @@
 ---
 ### Scripting Methods.
 
-- [Stacking and Unstacking Data](Scripting_Methods/html/Data_Stacking_and_Unstacking.html)
+- [Stacking and Unstacking Data](/Scripting_Methods/html/Data_Stacking_and_Unstacking.html)
 - [Semi-Structured Data](http://example.com/)
 - [Mongo Database](http://example.com/)
 
