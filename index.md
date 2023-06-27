@@ -76,7 +76,7 @@
 ### Visualization
 - [Working with Maps](http://example.com/)
 - [PowerBI - Sales Analysis](http://example.com/)
-- [Cclassifiying clothing items](http://example.com/)
+
 ---
 
 
